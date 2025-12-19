@@ -1,5 +1,3 @@
-# Repositorio de colocolo69
-
 Este es el repositorio que utilizarás durante el resto del curso. Tanto profesores, ayudantes y bots tenemos acceso a este y podremos ver todos los cambios que hagas en tu código. **Es tu deber darle un buen uso y solo con fines académicos.**
 
 **Asegúrate de seguir la estructura de las carpetas y archivos presentes en tu repo.** Puedes crear carpetas adicionales pero **no modifiques la estructura básica**, además de entregar los archivos en su carpeta correspondiente. 😍
